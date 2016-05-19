@@ -1,0 +1,19 @@
+{
+  "name": "switch-env",
+  "version": "1.0.0",
+  "description": "fast switch develope env all by itself",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "env",
+    "switch"
+  ],
+  "author": "Gechmind",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-text-replace": "^0.4.0"
+  }
+}
